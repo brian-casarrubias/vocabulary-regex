@@ -1,0 +1,6 @@
+
+enter folder name in desktop
+search through all the files that end with .txt
+find the word you're looking for with regex
+use re.IGNORE_CASE so it wont matter if its capital or lower case because in my case I may have mixed in both capital and lower case
+print out the document name that contains the word
